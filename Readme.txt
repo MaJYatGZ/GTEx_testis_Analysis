@@ -1,0 +1,2 @@
+1. To run the ipynb scripts, the RNA-seq data and metadata of GTEx Analyze V10 should be downloaded and put into the same directory of XXX.ipynb files.
+2. The RNA-seq data is: GTEx_Analysis_v10_RNASeQCv2.4.2_gene_tpm.gct.gz ; the metadata are: GTEx_Analysis_v10_Annotations_SubjectPhenotypesDS.txt and GTEx_Analysis_v10_Annotations_SampleAttributesDS.txt . All these data could be downloaded from https://www.gtexportal.org/ .
